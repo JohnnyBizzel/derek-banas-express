@@ -1,0 +1,21 @@
+{
+  "name": "derek-banas-express",
+  "version": "1.0.0",
+  "description": "Express tutorial",
+  "main": "express.js",
+  "repository": "",
+  "author": "Johnny Bizzel",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^3.2.6",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.2",
+    "formidable": "^1.0.17",
+    "fs": "0.0.1-security",
+    "handlebars": "^4.0.6",
+    "parseurl": "^1.3.1",
+    "socket.io": "~0.9.14"
+  }
+}
