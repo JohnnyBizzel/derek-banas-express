@@ -1,6 +1,9 @@
 {
   "name": "derek-banas-express",
   "version": "1.0.0",
+    "scripts": {
+    "start": "node ./bin/www"
+  },
   "description": "Express tutorial",
   "main": "express.js",
   "repository": "",
